@@ -1,0 +1,55 @@
+body {
+  background-color: #a6e3e9;
+  font-family: serif;
+  margin: 0;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #71c9ce;
+  position: absolute;
+  width: 100%;
+}
+
+.headline {
+  margin: 10px auto 10px;
+  color: #e3fdfd;
+  font-size: 300%;
+}
+
+.contact {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 10px;
+}
+
+.contact-info {
+  text-decoration: none;
+  color: #e3fdfd;
+  margin: 5px;
+}
+
+.contact-info:hover {
+  color: #a8d8ea;
+}
+
+.icon {
+  height: 150px;
+  width: 150px;
+}
+
+.my-name {
+  color: #e3fdfd;
+  font-family: 'Sacramento', cursive;
+  margin: 8px auto 8px;
+}
+
+.email,.email-addr {
+  color: #e3fdfd;
+  margin: 0 auto 8px;
+}
+
+.email-addr:hover {
+  color: #a8d8ea;
+}
