@@ -96,9 +96,13 @@ body {
 }
 
 .footer {
-  color: black;
-  padding: 10px;
   background-color: #71c9ce;
+}
+
+.footer p {
+  padding: 10px;
+  color: black;
+  margin: 0;
 }
 
 span {
