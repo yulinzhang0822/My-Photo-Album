@@ -84,8 +84,23 @@ body {
   opacity: 0.3;
 }
 
-hr {
+.dotted-line {
   width: 10%;
   border: 0;
   border-top: 5px dotted #3d84a8;
+}
+
+.end-line {
+  border: 12px solid #3d84a8;
+  margin: 0;
+}
+
+.footer {
+  color: black;
+  padding: 10px;
+  background-color: #71c9ce;
+}
+
+span {
+  font-style: italic;
 }
